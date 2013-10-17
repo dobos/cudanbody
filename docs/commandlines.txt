@@ -1,0 +1,5 @@
+Collision test:
+
+-n 16 -i E -t 615 -dt 1 -p 1 1 1 -o D:\ELTE\CudaNBody\out
+
+Formation test
